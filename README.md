@@ -22,7 +22,7 @@
 
 AND/OR
 
-### `react-native run-android'
+### `react-native run-android`
 
 For Android, you need to have Android Studio installed and Android emulator running in the background
 
